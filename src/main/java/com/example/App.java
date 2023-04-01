@@ -1,11 +1,6 @@
 package com.example;
 
 import javax.naming.InitialContext;
-
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main( String[] args )
